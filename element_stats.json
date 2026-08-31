@@ -1450,12 +1450,14 @@
     "element_number": "050a",
     "element_name": "Scorpion",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 18.99,
+    "max_price": 18.99,
+    "avg_price": 18.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/377444714198?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",

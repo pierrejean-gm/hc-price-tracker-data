@@ -2284,12 +2284,14 @@
     "element_number": "054",
     "element_name": "Symbiote, Sorcerer Supreme",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 37.93,
+    "max_price": 37.93,
+    "avg_price": 37.93,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/287527765539?nordt=true"
+    ]
   },
   {
     "set_name": "Strange Tales",
@@ -3943,12 +3945,14 @@
     "element_number": "054",
     "element_name": "Mogo",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 70.0,
+    "max_price": 70.0,
+    "avg_price": 70.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/178249708717?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",

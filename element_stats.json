@@ -86,7 +86,7 @@
   {
     "set_name": "Fight for Gotham City",
     "element_number": "008",
-    "element_name": "Penquin Robot",
+    "element_name": "Penguin Robot",
     "element_type": "figure",
     "count": 0,
     "min_price": null,
@@ -1414,12 +1414,14 @@
     "element_number": "047b",
     "element_name": "Scream",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 80.0,
+    "max_price": 80.0,
+    "avg_price": 80.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/227424798791?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -2382,12 +2384,14 @@
     "element_number": "005",
     "element_name": "Gambit",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 11.95,
+    "max_price": 11.95,
+    "avg_price": 11.95,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/278212044747?nordt=true"
+    ]
   },
   {
     "set_name": "X-Men '97",
@@ -5257,12 +5261,14 @@
     "element_number": "029a",
     "element_name": "Spider-Man 2099",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 2.25,
+    "max_price": 2.25,
+    "avg_price": 2.25,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/307150079466?nordt=true"
+    ]
   },
   {
     "set_name": "Spider-Verse",

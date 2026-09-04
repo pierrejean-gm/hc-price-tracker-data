@@ -1406,12 +1406,14 @@
     "element_number": "047a",
     "element_name": "Agony",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 18.29,
+    "max_price": 18.29,
+    "avg_price": 18.29,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/278334510610?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -1470,12 +1472,14 @@
     "element_number": "050b",
     "element_name": "Venom",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 100.39,
+    "max_price": 100.39,
+    "avg_price": 100.39,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/287350777610?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -2144,13 +2148,14 @@
     "element_number": "043b",
     "element_name": "Dormammu",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 19.99,
     "max_price": 19.99,
     "avg_price": 19.99,
     "sd_price": 0.0,
     "urls": [
-      "https://www.ebay.com/itm/278192991927?nordt=true"
+      "https://www.ebay.com/itm/278192991927?nordt=true",
+      "https://www.ebay.com/itm/307158040179?nordt=true"
     ]
   },
   {
@@ -2914,14 +2919,15 @@
     "element_number": "041a",
     "element_name": "Rogue",
     "element_type": "figure",
-    "count": 2,
+    "count": 3,
     "min_price": 10.0,
-    "max_price": 11.99,
-    "avg_price": 10.995000000000001,
-    "sd_price": 0.9950000000000001,
+    "max_price": 12.99,
+    "avg_price": 11.660000000000002,
+    "sd_price": 1.2427657328180026,
     "urls": [
       "https://www.ebay.com/itm/277829220028?nordt=true",
-      "https://www.ebay.com/itm/188608935104?nordt=true"
+      "https://www.ebay.com/itm/188608935104?nordt=true",
+      "https://www.ebay.com/itm/227481969118?nordt=true"
     ]
   },
   {
@@ -3929,12 +3935,14 @@
     "element_number": "052",
     "element_name": "Larfleeze",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 36.99,
+    "max_price": 36.99,
+    "avg_price": 36.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/307098273903?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -6095,12 +6103,14 @@
     "element_number": "032",
     "element_name": "Beta Ray Bill",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 20.0,
+    "max_price": 20.0,
+    "avg_price": 20.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/287395283121?nordt=true"
+    ]
   },
   {
     "set_name": "Collector's Trove",

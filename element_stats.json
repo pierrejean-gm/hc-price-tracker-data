@@ -88,36 +88,42 @@
     "element_number": "008",
     "element_name": "Penguin Robot",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/227424456662?nordt=true"
+    ]
   },
   {
     "set_name": "Fight for Gotham City",
     "element_number": "009",
     "element_name": "Clay Critter",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 0.99,
+    "max_price": 0.99,
+    "avg_price": 0.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/336712350070?nordt=true"
+    ]
   },
   {
     "set_name": "Fight for Gotham City",
     "element_number": "010",
     "element_name": "Scarecrow Goon",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/227424458520?nordt=true"
+    ]
   },
   {
     "set_name": "Fight for Gotham City",
@@ -148,14 +154,15 @@
     "element_number": "013",
     "element_name": "Arsenal",
     "element_type": "figure",
-    "count": 2,
+    "count": 3,
     "min_price": 0.99,
     "max_price": 1.0,
-    "avg_price": 0.995,
-    "sd_price": 0.0050000000000000044,
+    "avg_price": 0.9933333333333333,
+    "sd_price": 0.004714045207910321,
     "urls": [
       "https://www.ebay.com/itm/267724376443?nordt=true",
-      "https://www.ebay.com/itm/287405796313?nordt=true"
+      "https://www.ebay.com/itm/287405796313?nordt=true",
+      "https://www.ebay.com/itm/307052550017?nordt=true"
     ]
   },
   {
@@ -175,24 +182,28 @@
     "element_number": "015",
     "element_name": "Astral Raven",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.95,
+    "max_price": 1.95,
+    "avg_price": 1.95,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267724378111?nordt=true"
+    ]
   },
   {
     "set_name": "Fight for Gotham City",
     "element_number": "016",
     "element_name": "Astral Martian Manhunter",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267724378805?nordt=true"
+    ]
   },
   {
     "set_name": "Fight for Gotham City",
@@ -285,13 +296,14 @@
     "element_number": "024",
     "element_name": "Beast Boy",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 0.99,
-    "max_price": 0.99,
-    "avg_price": 0.99,
-    "sd_price": 0.0,
+    "max_price": 1.0,
+    "avg_price": 0.995,
+    "sd_price": 0.0050000000000000044,
     "urls": [
-      "https://www.ebay.com/itm/287406177005?nordt=true"
+      "https://www.ebay.com/itm/287406177005?nordt=true",
+      "https://www.ebay.com/itm/267724383116?nordt=true"
     ]
   },
   {
@@ -299,13 +311,14 @@
     "element_number": "025",
     "element_name": "Beast Boy",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 0.99,
-    "max_price": 0.99,
-    "avg_price": 0.99,
-    "sd_price": 0.0,
+    "max_price": 1.0,
+    "avg_price": 0.995,
+    "sd_price": 0.0050000000000000044,
     "urls": [
-      "https://www.ebay.com/itm/287406178311?nordt=true"
+      "https://www.ebay.com/itm/287406178311?nordt=true",
+      "https://www.ebay.com/itm/267724383433?nordt=true"
     ]
   },
   {
@@ -327,13 +340,14 @@
     "element_number": "027",
     "element_name": "Tim Drake",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 0.99,
-    "max_price": 0.99,
-    "avg_price": 0.99,
-    "sd_price": 0.0,
+    "max_price": 1.0,
+    "avg_price": 0.995,
+    "sd_price": 0.0050000000000000044,
     "urls": [
-      "https://www.ebay.com/itm/287406180215?nordt=true"
+      "https://www.ebay.com/itm/287406180215?nordt=true",
+      "https://www.ebay.com/itm/267724383935?nordt=true"
     ]
   },
   {
@@ -457,12 +471,14 @@
     "element_number": "037a",
     "element_name": "Alfred",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 3.0,
+    "max_price": 3.0,
+    "avg_price": 3.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/227424625947?nordt=true"
+    ]
   },
   {
     "set_name": "Fight for Gotham City",
@@ -484,13 +500,14 @@
     "element_number": "038",
     "element_name": "Robin",
     "element_type": "figure",
-    "count": 1,
-    "min_price": 3.99,
+    "count": 2,
+    "min_price": 3.95,
     "max_price": 3.99,
-    "avg_price": 3.99,
-    "sd_price": 0.0,
+    "avg_price": 3.97,
+    "sd_price": 0.020000000000000018,
     "urls": [
-      "https://www.ebay.com/itm/287406215504?nordt=true"
+      "https://www.ebay.com/itm/287406215504?nordt=true",
+      "https://www.ebay.com/itm/267725880398?nordt=true"
     ]
   },
   {
@@ -510,12 +527,14 @@
     "element_number": "040",
     "element_name": "Nightwing",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 4.0,
+    "max_price": 4.0,
+    "avg_price": 4.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/227424633451?nordt=true"
+    ]
   },
   {
     "set_name": "Fight for Gotham City",
@@ -562,24 +581,28 @@
     "element_number": "043",
     "element_name": "Ratcatcher",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.49,
+    "max_price": 1.49,
+    "avg_price": 1.49,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/278166346608?nordt=true"
+    ]
   },
   {
     "set_name": "Fight for Gotham City",
     "element_number": "044",
     "element_name": "Professor Pyg",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 9.99,
+    "max_price": 9.99,
+    "avg_price": 9.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/287406489318?nordt=true"
+    ]
   },
   {
     "set_name": "Fight for Gotham City",
@@ -600,12 +623,14 @@
     "element_number": "046",
     "element_name": "Clayface",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 12.99,
+    "max_price": 12.99,
+    "avg_price": 12.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/287406491647?nordt=true"
+    ]
   },
   {
     "set_name": "Fight for Gotham City",
@@ -639,25 +664,29 @@
     "element_number": "048",
     "element_name": "Cyborg",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 16.0,
+    "max_price": 16.0,
+    "avg_price": 16.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/227424684422?nordt=true"
+    ]
   },
   {
     "set_name": "Fight for Gotham City",
     "element_number": "049",
     "element_name": "Wally West",
     "element_type": "figure",
-    "count": 1,
-    "min_price": 15.0,
-    "max_price": 15.0,
-    "avg_price": 15.0,
-    "sd_price": 0.0,
+    "count": 3,
+    "min_price": 12.99,
+    "max_price": 15.95,
+    "avg_price": 14.646666666666667,
+    "sd_price": 1.2339728071918312,
     "urls": [
-      "https://www.ebay.com/itm/206488605651?nordt=true"
+      "https://www.ebay.com/itm/206488605651?nordt=true",
+      "https://www.ebay.com/itm/298540466967?nordt=true",
+      "https://www.ebay.com/itm/267725896140?nordt=true"
     ]
   },
   {
@@ -677,13 +706,14 @@
     "element_number": "051",
     "element_name": "Bronze Tiger",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 8.95,
-    "max_price": 8.95,
-    "avg_price": 8.95,
-    "sd_price": 0.0,
+    "max_price": 12.0,
+    "avg_price": 10.475,
+    "sd_price": 1.5250000000000004,
     "urls": [
-      "https://www.ebay.com/itm/336739410556?nordt=true"
+      "https://www.ebay.com/itm/336739410556?nordt=true",
+      "https://www.ebay.com/itm/227424689163?nordt=true"
     ]
   },
   {
@@ -788,13 +818,14 @@
     "element_number": "058",
     "element_name": "Green Lantern",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 79.99,
-    "max_price": 79.99,
-    "avg_price": 79.99,
-    "sd_price": 0.0,
+    "max_price": 80.0,
+    "avg_price": 79.995,
+    "sd_price": 0.005000000000002558,
     "urls": [
-      "https://www.ebay.com/itm/178432594064?nordt=true"
+      "https://www.ebay.com/itm/178432594064?nordt=true",
+      "https://www.ebay.com/itm/206445443386?nordt=true"
     ]
   },
   {
@@ -896,12 +927,15 @@
     "element_number": "003",
     "element_name": "Private Detective",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 2,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267629829014?nordt=true",
+      "https://www.ebay.com/itm/377083757423?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -932,12 +966,14 @@
     "element_number": "006",
     "element_name": "Symbiote Soldier",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/227291919587?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -982,12 +1018,14 @@
     "element_number": "010",
     "element_name": "Black Widow",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267629835264?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -1030,12 +1068,16 @@
     "element_number": "014a",
     "element_name": "Venom",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 3,
+    "min_price": 0.99,
+    "max_price": 1.0,
+    "avg_price": 0.9966666666666667,
+    "sd_price": 0.004714045207910321,
+    "urls": [
+      "https://www.ebay.com/itm/267629849667?nordt=true",
+      "https://www.ebay.com/itm/287300291388?nordt=true",
+      "https://www.ebay.com/itm/336453541803?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -1090,12 +1132,14 @@
     "element_number": "018",
     "element_name": "Mac Gargan",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/377083749903?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -1140,12 +1184,15 @@
     "element_number": "022",
     "element_name": "Phage",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 2,
+    "min_price": 1.49,
+    "max_price": 1.95,
+    "avg_price": 1.72,
+    "sd_price": 0.22999999999999998,
+    "urls": [
+      "https://www.ebay.com/itm/267629866589?nordt=true",
+      "https://www.ebay.com/itm/287230123012?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -1214,13 +1261,14 @@
     "element_number": "028",
     "element_name": "Chasm",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 1.0,
     "max_price": 1.0,
     "avg_price": 1.0,
     "sd_price": 0.0,
     "urls": [
-      "https://www.ebay.com/itm/257718119085?nordt=true"
+      "https://www.ebay.com/itm/257718119085?nordt=true",
+      "https://www.ebay.com/itm/267629870700?nordt=true"
     ]
   },
   {
@@ -1266,12 +1314,14 @@
     "element_number": "031b",
     "element_name": "Carnage Electra",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 13.29,
+    "max_price": 13.29,
+    "avg_price": 13.29,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/127897752502?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -1362,13 +1412,14 @@
     "element_number": "039",
     "element_name": "Venom\u2019s Axe",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 4.49,
-    "max_price": 4.49,
-    "avg_price": 4.49,
-    "sd_price": 0.0,
+    "max_price": 14.95,
+    "avg_price": 9.719999999999999,
+    "sd_price": 5.2299999999999995,
     "urls": [
-      "https://www.ebay.com/itm/336471061402?nordt=true"
+      "https://www.ebay.com/itm/336471061402?nordt=true",
+      "https://www.ebay.com/itm/267630074161?nordt=true"
     ]
   },
   {
@@ -1388,12 +1439,14 @@
     "element_number": "041",
     "element_name": "Poison Doom",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 14.99,
+    "max_price": 14.99,
+    "avg_price": 14.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/287230207302?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -1478,13 +1531,14 @@
     "element_number": "047b",
     "element_name": "Scream",
     "element_type": "figure",
-    "count": 1,
-    "min_price": 80.0,
+    "count": 2,
+    "min_price": 59.95,
     "max_price": 80.0,
-    "avg_price": 80.0,
-    "sd_price": 0.0,
+    "avg_price": 69.975,
+    "sd_price": 10.024999999999999,
     "urls": [
-      "https://www.ebay.com/itm/227424798791?nordt=true"
+      "https://www.ebay.com/itm/227424798791?nordt=true",
+      "https://www.ebay.com/itm/267630114036?nordt=true"
     ]
   },
   {
@@ -1516,14 +1570,15 @@
     "element_number": "050a",
     "element_name": "Scorpion",
     "element_type": "figure",
-    "count": 2,
-    "min_price": 18.99,
+    "count": 3,
+    "min_price": 15.0,
     "max_price": 20.0,
-    "avg_price": 19.494999999999997,
-    "sd_price": 0.5050000000000008,
+    "avg_price": 17.996666666666666,
+    "sd_price": 2.158708461608983,
     "urls": [
       "https://www.ebay.com/itm/377444714198?nordt=true",
-      "https://www.ebay.com/itm/227292127760?nordt=true"
+      "https://www.ebay.com/itm/227292127760?nordt=true",
+      "https://www.ebay.com/itm/318766960545?nordt=true"
     ]
   },
   {
@@ -1531,13 +1586,14 @@
     "element_number": "050b",
     "element_name": "Venom",
     "element_type": "figure",
-    "count": 1,
-    "min_price": 100.39,
+    "count": 2,
+    "min_price": 37.0,
     "max_price": 100.39,
-    "avg_price": 100.39,
-    "sd_price": 0.0,
+    "avg_price": 68.695,
+    "sd_price": 31.695,
     "urls": [
-      "https://www.ebay.com/itm/287350777610?nordt=true"
+      "https://www.ebay.com/itm/287350777610?nordt=true",
+      "https://www.ebay.com/itm/354420619539?nordt=true"
     ]
   },
   {
@@ -1595,12 +1651,14 @@
     "element_number": "055",
     "element_name": "Hybrid",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 59.95,
+    "max_price": 59.95,
+    "avg_price": 59.95,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267630122222?nordt=true"
+    ]
   },
   {
     "set_name": "Venom",
@@ -1633,13 +1691,14 @@
     "element_number": "058",
     "element_name": "Spider-Man",
     "element_type": "figure",
-    "count": 1,
-    "min_price": 43.99,
+    "count": 2,
+    "min_price": 34.99,
     "max_price": 43.99,
-    "avg_price": 43.99,
-    "sd_price": 0.0,
+    "avg_price": 39.49,
+    "sd_price": 4.5,
     "urls": [
-      "https://www.ebay.com/itm/278312123767?nordt=true"
+      "https://www.ebay.com/itm/278312123767?nordt=true",
+      "https://www.ebay.com/itm/278266414397?nordt=true"
     ]
   },
   {
@@ -1757,12 +1816,14 @@
     "element_number": "008",
     "element_name": "Enchantress",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267513523077?nordt=true"
+    ]
   },
   {
     "set_name": "Strange Tales",
@@ -1867,12 +1928,13 @@
     "element_number": "017",
     "element_name": "Astral Dr. Strange",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 2.0,
     "max_price": 2.0,
     "avg_price": 2.0,
     "sd_price": 0.0,
     "urls": [
+      "https://www.ebay.com/itm/227125102716?nordt=true",
       "https://www.ebay.com/itm/227125102716?nordt=true"
     ]
   },
@@ -1905,12 +1967,15 @@
     "element_number": "020",
     "element_name": "Hannibal King",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 2,
+    "min_price": 0.99,
+    "max_price": 1.0,
+    "avg_price": 0.995,
+    "sd_price": 0.0050000000000000044,
+    "urls": [
+      "https://www.ebay.com/itm/267514387552?nordt=true",
+      "https://www.ebay.com/itm/286971779033?nordt=true"
+    ]
   },
   {
     "set_name": "Strange Tales",
@@ -1929,12 +1994,14 @@
     "element_number": "022",
     "element_name": "Dr. Druid",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 0.99,
+    "max_price": 0.99,
+    "avg_price": 0.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/286971780712?nordt=true"
+    ]
   },
   {
     "set_name": "Strange Tales",
@@ -1965,12 +2032,14 @@
     "element_number": "025",
     "element_name": "Nick Fury",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 0.99,
+    "max_price": 0.99,
+    "avg_price": 0.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/286971782973?nordt=true"
+    ]
   },
   {
     "set_name": "Strange Tales",
@@ -2053,12 +2122,14 @@
     "element_number": "032",
     "element_name": "Domammu",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 3.99,
+    "max_price": 3.99,
+    "avg_price": 3.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/286971790063?nordt=true"
+    ]
   },
   {
     "set_name": "Strange Tales",
@@ -2091,13 +2162,14 @@
     "element_number": "035",
     "element_name": "Bloodstorm",
     "element_type": "figure",
-    "count": 1,
-    "min_price": 4.0,
+    "count": 2,
+    "min_price": 3.99,
     "max_price": 4.0,
-    "avg_price": 4.0,
-    "sd_price": 0.0,
+    "avg_price": 3.995,
+    "sd_price": 0.004999999999999893,
     "urls": [
-      "https://www.ebay.com/itm/227125166017?nordt=true"
+      "https://www.ebay.com/itm/227125166017?nordt=true",
+      "https://www.ebay.com/itm/286971806900?nordt=true"
     ]
   },
   {
@@ -2207,12 +2279,14 @@
     "element_number": "042",
     "element_name": "Mephisto",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 7.0,
+    "max_price": 7.0,
+    "avg_price": 7.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/227125193764?nordt=true"
+    ]
   },
   {
     "set_name": "Strange Tales",
@@ -2246,24 +2320,27 @@
     "element_number": "044",
     "element_name": "Nick Fury",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 4.0,
+    "max_price": 4.0,
+    "avg_price": 4.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/227125201256?nordt=true"
+    ]
   },
   {
     "set_name": "Strange Tales",
     "element_number": "045",
     "element_name": "Dracula",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 10.0,
     "max_price": 10.0,
     "avg_price": 10.0,
     "sd_price": 0.0,
     "urls": [
+      "https://www.ebay.com/itm/227125203631?nordt=true",
       "https://www.ebay.com/itm/227125203631?nordt=true"
     ]
   },
@@ -2272,13 +2349,14 @@
     "element_number": "046",
     "element_name": "Kushala",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 4.99,
-    "max_price": 4.99,
-    "avg_price": 4.99,
-    "sd_price": 0.0,
+    "max_price": 5.0,
+    "avg_price": 4.995,
+    "sd_price": 0.004999999999999893,
     "urls": [
-      "https://www.ebay.com/itm/377371994310?nordt=true"
+      "https://www.ebay.com/itm/377371994310?nordt=true",
+      "https://www.ebay.com/itm/227125205419?nordt=true"
     ]
   },
   {
@@ -2612,14 +2690,15 @@
     "element_number": "013",
     "element_name": "Gambit",
     "element_type": "figure",
-    "count": 2,
-    "min_price": 1.39,
+    "count": 3,
+    "min_price": 0.99,
     "max_price": 5.0,
-    "avg_price": 3.195,
-    "sd_price": 1.805,
+    "avg_price": 2.46,
+    "sd_price": 1.8034596382139154,
     "urls": [
       "https://www.ebay.com/itm/365986453017?nordt=true",
-      "https://www.ebay.com/itm/227046389719?nordt=true"
+      "https://www.ebay.com/itm/227046389719?nordt=true",
+      "https://www.ebay.com/itm/336226853886?nordt=true"
     ]
   },
   {
@@ -2639,12 +2718,14 @@
     "element_number": "015",
     "element_name": "Magneto",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267466561641?nordt=true"
+    ]
   },
   {
     "set_name": "X-Men '97",
@@ -2711,14 +2792,15 @@
     "element_number": "019",
     "element_name": "Morph",
     "element_type": "figure",
-    "count": 2,
+    "count": 3,
     "min_price": 0.99,
     "max_price": 29.99,
-    "avg_price": 15.489999999999998,
-    "sd_price": 14.499999999999998,
+    "avg_price": 10.659999999999998,
+    "sd_price": 13.668374690015877,
     "urls": [
       "https://www.ebay.com/itm/336226918361?nordt=true",
-      "https://www.ebay.com/itm/287052922388?nordt=true"
+      "https://www.ebay.com/itm/287052922388?nordt=true",
+      "https://www.ebay.com/itm/267466565809?nordt=true"
     ]
   },
   {
@@ -2789,13 +2871,14 @@
     "element_number": "024",
     "element_name": "Nightcrawler",
     "element_type": "figure",
-    "count": 1,
-    "min_price": 20.0,
+    "count": 2,
+    "min_price": 7.99,
     "max_price": 20.0,
-    "avg_price": 20.0,
-    "sd_price": 0.0,
+    "avg_price": 13.995000000000001,
+    "sd_price": 6.005,
     "urls": [
-      "https://www.ebay.com/itm/188808144703?nordt=true"
+      "https://www.ebay.com/itm/188808144703?nordt=true",
+      "https://www.ebay.com/itm/206519434547?nordt=true"
     ]
   },
   {
@@ -2817,12 +2900,14 @@
     "element_number": "026",
     "element_name": "Sunspot",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.89,
+    "max_price": 1.89,
+    "avg_price": 1.89,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/277435952429?nordt=true"
+    ]
   },
   {
     "set_name": "X-Men '97",
@@ -3187,12 +3272,15 @@
     "element_number": "001b",
     "element_name": "Hal Jordan (Red)",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 2,
+    "min_price": 0.99,
+    "max_price": 1.0,
+    "avg_price": 0.995,
+    "sd_price": 0.0050000000000000044,
+    "urls": [
+      "https://www.ebay.com/itm/226942913760?nordt=true",
+      "https://www.ebay.com/itm/336051515664?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -3211,12 +3299,14 @@
     "element_number": "002a",
     "element_name": "Kyle Rayner (Green)",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 0.99,
+    "max_price": 0.99,
+    "avg_price": 0.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/336123407942?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -3297,13 +3387,14 @@
     "element_number": "004b",
     "element_name": "Ganthet",
     "element_type": "figure",
-    "count": 1,
-    "min_price": 1.19,
+    "count": 2,
+    "min_price": 1.0,
     "max_price": 1.19,
-    "avg_price": 1.19,
-    "sd_price": 0.0,
+    "avg_price": 1.095,
+    "sd_price": 0.09499999999999997,
     "urls": [
-      "https://www.ebay.com/itm/277333333208?nordt=true"
+      "https://www.ebay.com/itm/277333333208?nordt=true",
+      "https://www.ebay.com/itm/226942930194?nordt=true"
     ]
   },
   {
@@ -3449,12 +3540,14 @@
     "element_number": "016a",
     "element_name": "Hal Jordan (Black)",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 2.0,
+    "max_price": 2.0,
+    "avg_price": 2.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/226942942430?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -3583,12 +3676,15 @@
     "element_number": "021b",
     "element_name": "Soranik Natu (Green)",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 2,
+    "min_price": 0.99,
+    "max_price": 1.99,
+    "avg_price": 1.49,
+    "sd_price": 0.5,
+    "urls": [
+      "https://www.ebay.com/itm/286751780541?nordt=true",
+      "https://www.ebay.com/itm/277333309112?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -3607,12 +3703,14 @@
     "element_number": "022b",
     "element_name": "Jessica Cruz (Green)",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267390503170?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -3631,24 +3729,29 @@
     "element_number": "023b",
     "element_name": "Laira (Green)",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 2,
+    "min_price": 0.99,
+    "max_price": 1.49,
+    "avg_price": 1.24,
+    "sd_price": 0.25,
+    "urls": [
+      "https://www.ebay.com/itm/286751785428?nordt=true",
+      "https://www.ebay.com/itm/277333329855?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
     "element_number": "024a",
     "element_name": "Spectre",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 2.0,
+    "max_price": 2.0,
+    "avg_price": 2.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/226942966833?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -3667,24 +3770,28 @@
     "element_number": "025a",
     "element_name": "Beast Boy (Dog)",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 0.99,
+    "max_price": 0.99,
+    "avg_price": 0.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/336132803490?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
     "element_number": "025b",
     "element_name": "Beast Boy (Dolphin)",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267390509394?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -3729,13 +3836,14 @@
     "element_number": "029a",
     "element_name": "Arkillo",
     "element_type": "figure",
-    "count": 1,
-    "min_price": 6.95,
+    "count": 2,
+    "min_price": 3.39,
     "max_price": 6.95,
-    "avg_price": 6.95,
-    "sd_price": 0.0,
+    "avg_price": 5.17,
+    "sd_price": 1.78,
     "urls": [
-      "https://www.ebay.com/itm/267390513485?nordt=true"
+      "https://www.ebay.com/itm/267390513485?nordt=true",
+      "https://www.ebay.com/itm/336598275997?nordt=true"
     ]
   },
   {
@@ -3755,25 +3863,30 @@
     "element_number": "030",
     "element_name": "Gnort",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 3,
+    "min_price": 0.99,
+    "max_price": 3.0,
+    "avg_price": 2.3133333333333335,
+    "sd_price": 0.9359605879641634,
+    "urls": [
+      "https://www.ebay.com/itm/226942983590?nordt=true",
+      "https://www.ebay.com/itm/267390514648?nordt=true",
+      "https://www.ebay.com/itm/277441205043?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
     "element_number": "031a",
     "element_name": "Lobo (Green)",
     "element_type": "figure",
-    "count": 2,
+    "count": 3,
     "min_price": 3.79,
     "max_price": 5.39,
-    "avg_price": 4.59,
-    "sd_price": 0.7999999999999998,
+    "avg_price": 4.323333333333333,
+    "sd_price": 0.7542472332656506,
     "urls": [
       "https://www.ebay.com/itm/287004943554?nordt=true",
+      "https://www.ebay.com/itm/278014909024?nordt=true",
       "https://www.ebay.com/itm/278014909024?nordt=true"
     ]
   },
@@ -3818,12 +3931,14 @@
     "element_number": "034",
     "element_name": "Rot Lop Fan",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.99,
+    "max_price": 1.99,
+    "avg_price": 1.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/336075752645?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -3854,12 +3969,14 @@
     "element_number": "037a",
     "element_name": "Guy Gardner",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 2.39,
+    "max_price": 2.39,
+    "avg_price": 2.39,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/336130365346?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -3980,13 +4097,15 @@
     "element_number": "044",
     "element_name": "Animal Man",
     "element_type": "figure",
-    "count": 1,
+    "count": 3,
     "min_price": 85.0,
-    "max_price": 85.0,
-    "avg_price": 85.0,
-    "sd_price": 0.0,
+    "max_price": 100.0,
+    "avg_price": 94.98333333333333,
+    "sd_price": 7.059312210753177,
     "urls": [
-      "https://www.ebay.com/itm/298634125129?nordt=true"
+      "https://www.ebay.com/itm/298634125129?nordt=true",
+      "https://www.ebay.com/itm/267390551141?nordt=true",
+      "https://www.ebay.com/itm/227484373588?nordt=true"
     ]
   },
   {
@@ -3994,12 +4113,14 @@
     "element_number": "045",
     "element_name": "Flash",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 15.99,
+    "max_price": 15.99,
+    "avg_price": 15.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/286751978365?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -4056,12 +4177,14 @@
     "element_number": "050",
     "element_name": "Hourman",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 5.0,
+    "max_price": 5.0,
+    "avg_price": 5.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/226943032169?nordt=true"
+    ]
   },
   {
     "set_name": "Lantern Legacy",
@@ -4312,12 +4435,14 @@
     "element_number": "007a",
     "element_name": "Absorbing Man",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.95,
+    "max_price": 1.95,
+    "avg_price": 1.95,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267222641079?nordt=true"
+    ]
   },
   {
     "set_name": "Smash and Destroy",
@@ -4482,12 +4607,14 @@
     "element_number": "011",
     "element_name": "Hawkeye",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267222644261?nordt=true"
+    ]
   },
   {
     "set_name": "Smash and Destroy",
@@ -4650,12 +4777,14 @@
     "element_number": "023",
     "element_name": "Primus",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267223463041?nordt=true"
+    ]
   },
   {
     "set_name": "Smash and Destroy",
@@ -4820,12 +4949,14 @@
     "element_number": "031b",
     "element_name": "Destroyer",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 25.0,
+    "max_price": 25.0,
+    "avg_price": 25.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/287440566074?nordt=true"
+    ]
   },
   {
     "set_name": "Smash and Destroy",
@@ -4894,12 +5025,14 @@
     "element_number": "036",
     "element_name": "Constrictor",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 4.95,
+    "max_price": 4.95,
+    "avg_price": 4.95,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267224666903?nordt=true"
+    ]
   },
   {
     "set_name": "Smash and Destroy",
@@ -5062,12 +5195,14 @@
     "element_number": "001",
     "element_name": "Spider-Man",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/286686294043?nordt=true"
+    ]
   },
   {
     "set_name": "Spider-Verse",
@@ -5122,12 +5257,14 @@
     "element_number": "006",
     "element_name": "Goon",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/226630816580?nordt=true"
+    ]
   },
   {
     "set_name": "Spider-Verse",
@@ -5146,12 +5283,14 @@
     "element_number": "008a",
     "element_name": "Black Symbiote",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 6.99,
+    "max_price": 6.99,
+    "avg_price": 6.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/287558863174?nordt=true"
+    ]
   },
   {
     "set_name": "Spider-Verse",
@@ -5170,12 +5309,14 @@
     "element_number": "009",
     "element_name": "Man Mountain Marko",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267142810715?nordt=true"
+    ]
   },
   {
     "set_name": "Spider-Verse",
@@ -5194,24 +5335,28 @@
     "element_number": "011",
     "element_name": "Ghost Spider",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267142812367?nordt=true"
+    ]
   },
   {
     "set_name": "Spider-Verse",
     "element_number": "012",
     "element_name": "Spider-Clone",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267142813986?nordt=true"
+    ]
   },
   {
     "set_name": "Spider-Verse",
@@ -5242,13 +5387,14 @@
     "element_number": "015",
     "element_name": "Goblin Army",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 0.99,
-    "max_price": 0.99,
-    "avg_price": 0.99,
-    "sd_price": 0.0,
+    "max_price": 1.0,
+    "avg_price": 0.995,
+    "sd_price": 0.0050000000000000044,
     "urls": [
-      "https://www.ebay.com/itm/287551915993?nordt=true"
+      "https://www.ebay.com/itm/287551915993?nordt=true",
+      "https://www.ebay.com/itm/267142815974?nordt=true"
     ]
   },
   {
@@ -5256,25 +5402,28 @@
     "element_number": "016",
     "element_name": "Spider-Man",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267142818408?nordt=true"
+    ]
   },
   {
     "set_name": "Spider-Verse",
     "element_number": "017a",
     "element_name": "Venom",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 13.99,
-    "max_price": 13.99,
-    "avg_price": 13.99,
-    "sd_price": 0.0,
+    "max_price": 19.99,
+    "avg_price": 16.99,
+    "sd_price": 2.999999999999999,
     "urls": [
-      "https://www.ebay.com/itm/278048953379?nordt=true"
+      "https://www.ebay.com/itm/278048953379?nordt=true",
+      "https://www.ebay.com/itm/127913892592?nordt=true"
     ]
   },
   {
@@ -5306,12 +5455,14 @@
     "element_number": "019",
     "element_name": "Spider-Byte",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.95,
+    "max_price": 1.95,
+    "avg_price": 1.95,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267142822032?nordt=true"
+    ]
   },
   {
     "set_name": "Spider-Verse",
@@ -5512,12 +5663,14 @@
     "element_number": "033",
     "element_name": "Spider-Punk",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.99,
+    "max_price": 1.99,
+    "avg_price": 1.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/277736821144?nordt=true"
+    ]
   },
   {
     "set_name": "Spider-Verse",
@@ -5586,12 +5739,14 @@
     "element_number": "039",
     "element_name": "Morlun",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 3.95,
+    "max_price": 3.95,
+    "avg_price": 3.95,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267142838456?nordt=true"
+    ]
   },
   {
     "set_name": "Spider-Verse",
@@ -5992,12 +6147,14 @@
     "element_number": "011",
     "element_name": "Kree Soldier",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/226569438211?nordt=true"
+    ]
   },
   {
     "set_name": "Collector's Trove",
@@ -6102,12 +6259,14 @@
     "element_number": "020",
     "element_name": "Nebula",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 1.0,
+    "max_price": 1.0,
+    "avg_price": 1.0,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/267115549580?nordt=true"
+    ]
   },
   {
     "set_name": "Collector's Trove",
@@ -6288,13 +6447,14 @@
     "element_number": "033",
     "element_name": "Ronan the Accuser",
     "element_type": "figure",
-    "count": 1,
-    "min_price": 17.95,
+    "count": 2,
+    "min_price": 7.95,
     "max_price": 17.95,
-    "avg_price": 17.95,
-    "sd_price": 0.0,
+    "avg_price": 12.95,
+    "sd_price": 5.0,
     "urls": [
-      "https://www.ebay.com/itm/267115549582?nordt=true"
+      "https://www.ebay.com/itm/267115549582?nordt=true",
+      "https://www.ebay.com/itm/336734492847?nordt=true"
     ]
   },
   {
@@ -6362,12 +6522,14 @@
     "element_number": "037b",
     "element_name": "Namor",
     "element_type": "figure",
-    "count": 0,
-    "min_price": null,
-    "max_price": null,
-    "avg_price": null,
-    "sd_price": null,
-    "urls": []
+    "count": 1,
+    "min_price": 59.99,
+    "max_price": 59.99,
+    "avg_price": 59.99,
+    "sd_price": 0.0,
+    "urls": [
+      "https://www.ebay.com/itm/287393209861?nordt=true"
+    ]
   },
   {
     "set_name": "Collector's Trove",
@@ -6462,13 +6624,14 @@
     "element_number": "045",
     "element_name": "Agatha",
     "element_type": "figure",
-    "count": 1,
+    "count": 2,
     "min_price": 12.99,
-    "max_price": 12.99,
-    "avg_price": 12.99,
-    "sd_price": 0.0,
+    "max_price": 19.0,
+    "avg_price": 15.995000000000001,
+    "sd_price": 3.005,
     "urls": [
-      "https://www.ebay.com/itm/287305660503?nordt=true"
+      "https://www.ebay.com/itm/287305660503?nordt=true",
+      "https://www.ebay.com/itm/226569390229?nordt=true"
     ]
   },
   {
